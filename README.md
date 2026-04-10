@@ -42,17 +42,17 @@ Xcode • Instruments • MetricKit • XCTest • CI/CD
 
 ## 🌟 Featured Projects
 
-### 🔹 MVITaskFlow
-A SwiftUI application demonstrating **MVI architecture**, predictable state management,
-and scalable UI design for modern iOS apps.
+### 🔹 [MVITaskFlow](https://github.com/iPhoneNoobDeveloper/MVITaskFlow)
+A production-ready SwiftUI app demonstrating **MVI (Model-View-Intent) architecture** with unidirectional data flow, predictable state management, and testable side effects. Features single source of truth state management, explicit user events via Intents, pure state transitions with Reducer pattern, and comprehensive unit tests.
 
-### 🔹 SecureNetworkingKit (WIP)
-A practical iOS networking layer focusing on **security-first design**,
-including SSL pinning, request validation, and retry strategies.
+### 🔹 [DiagnosticsTool](https://github.com/iPhoneNoobDeveloper/DiagnosticsTool)
+Professional **macOS diagnostic and crash reporting application** built with Objective-C and integrated with **Sentry SDK + MetricKit**. Features real-time network monitoring, comprehensive system log collection with automatic PII redaction, multiple crash testing scenarios, and diagnostic bundle export capabilities.
 
-### 🔹 AIStreamingDemo (WIP)
-A modern chat-style iOS app showcasing **real-time streaming UI**,
-structured response rendering, and smooth user experience.
+### 🔹 [CombineGitHubSearch](https://github.com/iPhoneNoobDeveloper/CombineGitHubSearch)
+SwiftUI application showcasing **reactive programming with Combine** framework. Implements MVVM architecture with debounced text input, reactive networking, async image loading, pagination, and offline-friendly caching for GitHub user search.
+
+### 🔹 [ReactAndReactNativeFundamentals](https://github.com/iPhoneNoobDeveloper/ReactAndReactNativeFundamentals)
+A structured **30-day learning journey** mastering React and React Native from a mobile engineer's perspective. Covers modern JavaScript (ES6+), JSX, components, state management with hooks, and culminates in a capstone React Native application.
 
 ---
 

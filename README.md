@@ -58,7 +58,24 @@ A structured **30-day learning journey** mastering React and React Native from a
 
 ## 📈 GitHub Stats
 
-![Nirav's GitHub stats](https://github-readme-stats.vercel.app/api?username=iPhoneNoobDeveloper&show_icons=true&theme=tokyonight)
+<div align="center">
+
+### Overall Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iPhoneNoobDeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iPhoneNoobDeveloper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+### Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iPhoneNoobDeveloper&theme=tokyonight&hide_border=true)
+
+### GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iPhoneNoobDeveloper&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
+
+### Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iPhoneNoobDeveloper&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 

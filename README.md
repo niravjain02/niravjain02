@@ -56,19 +56,43 @@ A structured **30-day learning journey** mastering React and React Native from a
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iPhoneNoobDeveloper&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/iPhoneNoobDeveloper">
+    <img src="https://img.shields.io/github/followers/iPhoneNoobDeveloper?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/iPhoneNoobDeveloper?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-18-green?style=for-the-badge" alt="Repositories" />
+  </a>
+  <a href="https://github.com/iPhoneNoobDeveloper">
+    <img src="https://img.shields.io/badge/Experience-12%2B%20Years-orange?style=for-the-badge" alt="Experience" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPhoneNoobDeveloper&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/iPhoneNoobDeveloper?tab=repositories">
+    <img src="https://img.shields.io/badge/Swift-Expert-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  </a>
+  <a href="https://github.com/iPhoneNoobDeveloper?tab=repositories">
+    <img src="https://img.shields.io/badge/SwiftUI-Expert-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+  </a>
+  <a href="https://github.com/iPhoneNoobDeveloper?tab=repositories">
+    <img src="https://img.shields.io/badge/iOS-Expert-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+  </a>
+  <a href="https://github.com/iPhoneNoobDeveloper?tab=repositories">
+    <img src="https://img.shields.io/badge/Objective--C-Advanced-438EFF?style=for-the-badge&logo=c&logoColor=white" alt="Objective-C" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iPhoneNoobDeveloper&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+### 📊 Top Repositories by Focus
+
+| Repository | Description | Tech Stack |
+|------------|-------------|------------|
+| [MVITaskFlow](https://github.com/iPhoneNoobDeveloper/MVITaskFlow) | MVI Architecture Demo | Swift, SwiftUI |
+| [DiagnosticsTool](https://github.com/iPhoneNoobDeveloper/DiagnosticsTool) | macOS Diagnostics + Sentry | Objective-C, Sentry SDK |
+| [CombineGitHubSearch](https://github.com/iPhoneNoobDeveloper/CombineGitHubSearch) | Reactive Programming Demo | Swift, Combine, MVVM |
+| [ReactAndReactNativeFundamentals](https://github.com/iPhoneNoobDeveloper/ReactAndReactNativeFundamentals) | 30-Day Learning Journey | JavaScript, React Native |
 
 ---
 

@@ -56,8 +56,19 @@ A structured **30-day learning journey** mastering React and React Native from a
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Activity & Stats
 
+### 🔥 Daily Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iPhoneNoobDeveloper&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00" alt="GitHub Streak" />
+</p>
+
+### 📊 Contribution Activity
+<p align="center">
+  <img src="https://ghchart.rshah.org/FB8C00/iPhoneNoobDeveloper" alt="GitHub Contribution Chart" />
+</p>
+
+### 🏆 Profile Overview
 <p align="center">
   <a href="https://github.com/iPhoneNoobDeveloper">
     <img src="https://img.shields.io/github/followers/iPhoneNoobDeveloper?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
@@ -70,6 +81,7 @@ A structured **30-day learning journey** mastering React and React Native from a
   </a>
 </p>
 
+### 💻 Tech Expertise
 <p align="center">
   <a href="https://github.com/iPhoneNoobDeveloper?tab=repositories">
     <img src="https://img.shields.io/badge/Swift-Expert-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />

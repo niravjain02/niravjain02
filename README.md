@@ -1,9 +1,9 @@
 # Hi, I'm Nirav Jain 👋
 
-### Senior/Staff iOS Engineer | Swift, SwiftUI, AI, Security, Architecture
+### Senior/Staff iOS Engineer expanding into React Native | Swift, SwiftUI, JavaScript, React, AI, Security
 
 I build **modern, scalable, and secure iOS applications** with a strong focus on
-**architecture, performance, and AI-powered product experiences**.
+**architecture, performance, React Native, and AI-powered product experiences**.
 
 ---
 
@@ -11,6 +11,7 @@ I build **modern, scalable, and secure iOS applications** with a strong focus on
 
 - 💼 Senior/Staff iOS Engineer with 12+ years of experience
 - 📱 Expertise in Swift, SwiftUI, UIKit, Objective-C
+- ⚛️ Building React Native fundamentals with JavaScript, React hooks, Context API, navigation, lists, and API-driven screens
 - 🔐 Strong focus on secure mobile systems (SSL pinning, VPN, networking)
 - 🤖 Building AI-powered mobile experiences (streaming UI, structured responses)
 - ⚡ Passionate about performance, reliability, and scalable architectures
@@ -20,6 +21,8 @@ I build **modern, scalable, and secure iOS applications** with a strong focus on
 ## 🧠 What I Work On
 
 - 🏗 iOS Architecture (MVVM, VIPER, MVI, Modular Design)
+- ⚛️ React Native app development with Expo, components, hooks, FlatList, navigation, Context API, and reusable UI patterns
+- 🟨 Modern JavaScript and React fundamentals, including state, effects, controlled inputs, custom hooks, and component composition
 - 🔐 Secure Networking (SSL Pinning, Token Handling, Network Extensions)
 - ⚡ Performance Optimization (Instruments, MetricKit)
 - 🔄 Async Programming (Swift Concurrency, Combine)
@@ -30,7 +33,10 @@ I build **modern, scalable, and secure iOS applications** with a strong focus on
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**
-Swift • SwiftUI • UIKit • Objective-C • Combine • Swift Concurrency
+Swift • SwiftUI • UIKit • Objective-C • JavaScript • React • React Native • Expo • Combine • Swift Concurrency
+
+**React Native & Frontend**
+Components • Hooks • Custom Hooks • Context API • FlatList • Navigation • API Fetching • UI State Management
 
 **Networking & Security**
 REST • GraphQL • URLSession • Apollo iOS • SSL Pinning • VPN
@@ -52,7 +58,7 @@ Professional **macOS diagnostic and crash reporting application** built with Obj
 SwiftUI application showcasing **reactive programming with Combine** framework. Implements MVVM architecture with debounced text input, reactive networking, async image loading, pagination, and offline-friendly caching for GitHub user search.
 
 ### 🔹 [ReactAndReactNativeFundamentals](https://github.com/iPhoneNoobDeveloper/ReactAndReactNativeFundamentals)
-A structured **30-day learning journey** mastering React and React Native from a mobile engineer's perspective. Covers modern JavaScript (ES6+), JSX, components, state management with hooks, and culminates in a capstone React Native application.
+A structured **30-day learning journey** mastering React and React Native from a mobile engineer's perspective. Covers modern JavaScript, JSX, reusable components, state management, `useEffect`, controlled inputs, `FlatList`, navigation, API fetching, custom hooks, Context API, and production-minded UI states.
 
 ---
 
@@ -95,6 +101,18 @@ A structured **30-day learning journey** mastering React and React Native from a
   <a href="https://github.com/iPhoneNoobDeveloper?tab=repositories">
     <img src="https://img.shields.io/badge/Objective--C-Advanced-438EFF?style=for-the-badge&logo=c&logoColor=white" alt="Objective-C" />
   </a>
+  <a href="https://github.com/iPhoneNoobDeveloper/ReactAndReactNativeFundamentals">
+    <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://github.com/iPhoneNoobDeveloper/ReactAndReactNativeFundamentals">
+    <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  </a>
+  <a href="https://github.com/iPhoneNoobDeveloper/ReactAndReactNativeFundamentals">
+    <img src="https://img.shields.io/badge/React%20Native-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  </a>
+  <a href="https://github.com/iPhoneNoobDeveloper/ReactAndReactNativeFundamentals">
+    <img src="https://img.shields.io/badge/Expo-Learning-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  </a>
 </p>
 
 ### 📊 Top Repositories by Focus
@@ -104,7 +122,7 @@ A structured **30-day learning journey** mastering React and React Native from a
 | [MVITaskFlow](https://github.com/iPhoneNoobDeveloper/MVITaskFlow) | MVI Architecture Demo | Swift, SwiftUI |
 | [DiagnosticsTool](https://github.com/iPhoneNoobDeveloper/DiagnosticsTool) | macOS Diagnostics + Sentry | Objective-C, Sentry SDK |
 | [CombineGitHubSearch](https://github.com/iPhoneNoobDeveloper/CombineGitHubSearch) | Reactive Programming Demo | Swift, Combine, MVVM |
-| [ReactAndReactNativeFundamentals](https://github.com/iPhoneNoobDeveloper/ReactAndReactNativeFundamentals) | 30-Day Learning Journey | JavaScript, React Native |
+| [ReactAndReactNativeFundamentals](https://github.com/iPhoneNoobDeveloper/ReactAndReactNativeFundamentals) | React + React Native learning journey | JavaScript, React, React Native, Expo, Hooks, Context API |
 
 ---
 

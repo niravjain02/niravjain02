@@ -49,7 +49,7 @@ Xcode • Instruments • MetricKit • XCTest • CI/CD
 ## 🌟 Featured Projects
 
 ### 🔹 [MVITaskFlow](https://github.com/niravjain02/MVITaskFlow)
-A production-ready SwiftUI app demonstrating **MVI (Model-View-Intent) architecture** with unidirectional data flow, predictable state management, and testable side effects. Features single source of truth state management, explicit user events via Intents, pure state transitions with Reducer pattern, and comprehensive unit tests.
+A SwiftUI MVI reference app demonstrating reducer-driven state, side effects, async loading, and testable architecture. It uses a single source of truth, explicit user intents, pure state transitions, and focused unit tests.
 
 ### 🔹 [DiagnosticsTool](https://github.com/niravjain02/DiagnosticsTool)
 Professional **macOS diagnostic and crash reporting application** built with Objective-C and integrated with **Sentry SDK + MetricKit**. Features real-time network monitoring, comprehensive system log collection with automatic PII redaction, multiple crash testing scenarios, and diagnostic bundle export capabilities.
